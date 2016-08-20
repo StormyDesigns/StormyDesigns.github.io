@@ -21,12 +21,12 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://formspree.io/stormyjackson20@yahoo.com",
                 type: "POST",
                 data: {
                     name: name,
                     phone: phone,
-                    email: email,
+                    _replyTo: email,
                     message: message
                 },
                 cache: false,
