@@ -141,11 +141,10 @@ hr {
 .resize-sections {
     padding-top: 25px;
 }
-.illustration-padding {
-    padding-top: 50px;
+.ccandy-icon-padding {
+    padding-top: 30px;
 }
-
-.typography{
+.typography {
     text-align: center;
 }
 /* End of styles defined by Stormy */
