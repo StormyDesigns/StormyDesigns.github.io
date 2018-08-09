@@ -33,41 +33,6 @@
     width: 50%;
 }
 
-.user-personas {
-
-}
-
-li.user-persona {
-    list-style-type: none;
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
-
-.user-persona .first {
-    border-bottom: 1px solid #E40079;   
-}
-
-.user-persona .title {
-    font-weight: bold;
-}
-
-.user-question {
-    font-weight: bold;
-}
-
-.user-persona .attributes {
-    list-style-type: disc;
-}
-
-.user-persona p, .user-persona li {
-    line-height: 1.4em;
-}
-
-.user-persona p {
-    margin: 0;
-    padding-top: 0px;
-    padding-bottom: 10px;
-}
 
 .name-attributes {
 }
