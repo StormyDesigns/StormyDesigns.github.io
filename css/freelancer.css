@@ -131,6 +131,12 @@ p.small {
     font-size: 16px;
 }
 
+}
+
+div.d {
+  line-height: 200%;
+}
+
 .medium {
     font-size: 14px;
 }
